@@ -1,0 +1,22 @@
+@extends('layouts.main')
+
+@section('container')
+
+<link rel="stylesheet" type="text/css" href="{{ URL::asset('css/postncate.css'); }}">
+
+<div class="container">
+<div class="row">
+
+<div class="col mt-3" data-tilt>
+    <div class="card shadow p-3 mb-5">
+      
+      <div class="card-body">
+        <h5 class="card-title" style="color:#a52a2a; text-align: center; font-size: 40px;">PERSONAL</h5>
+        <p class="card-text" style="text-align: justify">Personal there are many articles about yourself that can inspire. Web development is the work involved in developing a website for the Internet or an intranet. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet, id laudantium. Quasi odio voluptatibus aliquam, laboriosam facilis dignissimos totam ducimus ipsum sed, nulla necessitatibus non cumque voluptatum ipsa dolorem praesentium? Nemo totam exercitationem amet modi sit, minima libero hic impedit tempora est architecto dicta alias molestiae eveniet dolore reprehenderit odio sequi quos, facilis placeat ab magni assumenda. Minus dolores facere fuga eum ipsam molestias quae molestiae aut dignissimos eligendi veritatis in cumque sequi, asperiores consequatur deleniti accusantium optio excepturi ipsa quis nesciunt? Delectus magni repudiandae, maiores animi magnam asperiores dolorem doloremque rerum incidunt libero architecto neque voluptatem iste quibusdam. Ad consequuntur accusamus tempore adipisci quod? Eveniet sed tempore quibusdam soluta. Facilis dolorum voluptate harum distinctio. Unde repellendus praesentium consequuntur nostrum eaque earum nulla fugiat nam nihil tempora quidem aspernatur, fuga quasi, quisquam magnam modi deleniti est soluta repellat impedit? Porro suscipit repudiandae voluptatem quae, consectetur eius? Dignissimos cum velit ducimus aliquid nobis cumque placeat consectetur quidem. Nulla distinctio dicta, velit ullam ipsam ducimus cum voluptate facilis, possimus minus adipisci dolorem quas iste eveniet et culpa animi maxime soluta repellat. Amet hic officia fugit doloremque odit veritatis ab enim dicta? Commodi aut blanditiis culpa doloribus itaque cumque dolore recusandae id, enim, similique quidem dolores sint temporibus expedita dolorum officiis cum, neque odit deleniti quisquam. Inventore laboriosam illum odio rerum incidunt nemo quaerat. Mollitia, nisi! Quasi consequatur voluptate aut dolores ipsam praesentium expedita voluptatum velit nesciunt, assumenda quod, voluptatibus fuga excepturi nobis deserunt nihil? Nesciunt ullam maxime perspiciatis nihil expedita. Eligendi voluptate ipsum dicta perferendis eum esse facere culpa eveniet nihil! Vitae deleniti, eveniet, aperiam, ad incidunt officiis reiciendis est laudantium voluptas perspiciatis sunt? Alias necessitatibus modi voluptatibus fugit dolores! Quis laboriosam voluptates autem obcaecati quas aspernatur explicabo, enim quo dicta quae atque dolor officia minima omnis, officiis sit optio quam illo? Hic vel nemo fugiat, voluptatibus facere libero nisi excepturi voluptatum, numquam quo velit repellendus porro accusamus iure accusantium. Illo repellendus dolorum obcaecati ullam animi. Ad praesentium consequatur voluptatibus eum id laudantium corporis iste molestiae deleniti ea reprehenderit unde delectus reiciendis voluptas, voluptatum cumque temporibus harum cum, repellat ex facilis. Odit amet repellendus nisi, maxime veritatis, perspiciatis voluptatum, labore magni necessitatibus explicabo expedita accusamus repellat sunt doloremque officia fuga quod temporibus deleniti nostrum officiis maiores facere. Eaque illo, non deserunt magnam quisquam maxime exercitationem et? Quasi, quam. Pariatur, dicta rem, quas autem ea excepturi explicabo ratione quos placeat totam sunt voluptatem incidunt libero, a veniam fugiat voluptatibus deleniti aspernatur ex eligendi nostrum perspiciatis! Vitae odio aperiam distinctio beatae recusandae in voluptatibus cumque earum excepturi rerum ab quod explicabo, asperiores perferendis sunt. Et magni sed illo odit, asperiores voluptas vel earum dolores illum quos exercitationem dolor, debitis libero, repellat unde voluptate voluptates? Iste, harum libero! Adipisci laudantium vitae distinctio corrupti tempore inventore nobis ratione, ut possimus, totam quae accusamus minima obcaecati reiciendis sapiente eligendi sit facilis mollitia explicabo provident veniam, error officiis? Officia nisi quaerat totam aliquid molestiae ex qui praesentium iste hic architecto vero, debitis aut recusandae commodi magnam asperiores in?</p></div>
+    </div>
+</div>
+
+</div>
+</div>
+
+@endsection
